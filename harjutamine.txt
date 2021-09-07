@@ -1,3 +1,2 @@
 GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara.
-Saan kasutada seda harjutamiseks ja praktikaks.Harjutada saaab Githubi veebilehel.
 Githubi firma sai alguse 2008.a ja asujateks olid Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett.Sama aasta aprillis juba sai avalikuks.
